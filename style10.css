@@ -1,0 +1,16 @@
+.left{
+    text-align: left;
+}
+
+.right{
+    text-align: right;
+}
+
+.center{
+    text-align: center;
+}
+#div{
+    width: 1000px;
+    border: solid 4px black;
+    padding: 7px;
+}
